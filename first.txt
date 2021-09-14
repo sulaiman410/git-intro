@@ -3,6 +3,5 @@ Ralph Waldo Emerson.
 
 Lets update this again to test
 
-
-This will be Garbage
-
+Testing conflict
+>>>>>>> Lincoln
